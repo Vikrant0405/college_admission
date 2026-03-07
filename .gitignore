@@ -1,0 +1,26 @@
+# Ignore upload files
+uploads/documents/
+uploads/images/
+
+# Ignore system files
+.htaccess
+Thumbs.db
+.DS_Store
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+tmp/
+temp/
+
